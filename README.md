@@ -1,5 +1,9 @@
 ## Git Cheat Sheet
 
+A brief reference of git commands
+
+* `git checkout -b otherBranch` - Switch to a new branch 'otherBranch'
+
 * `git init` - Initialize a local git repo in working directory
 * `git status` - Show status of local repo
 * `git log` - List commit history
